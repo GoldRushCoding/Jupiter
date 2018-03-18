@@ -1,4 +1,7 @@
 # Jupiter - Nukkit Fork for 1.2.x
+
+# Project Freezed [プロジェクト凍結]
+This project is freezed. Now, thare are no plans to develop further.
 <!-- ![jupiter](https://github.com/JupiterDevelopmentTeam/JupiterDevelopmentTeam/blob/master/Banner.jpg) -->
 
 Jupiterについて / About Jupiter
